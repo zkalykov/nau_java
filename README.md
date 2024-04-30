@@ -1,3 +1,12 @@
+```
+// pip3 install urllib3
+// pip3 install telepot
+
+// For downloading certificate
+// /Applications/Python\ 3.12/Install\ Certificates.command
+
+```
+
 # Telegram Expense Tracker Bot
 
 ## Introduction
